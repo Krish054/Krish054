@@ -1,7 +1,7 @@
 [![MasterHead](https://camo.githubusercontent.com/5dc6ee33381917e41fc9c4951799268998f11a9b864399bf79a0842e4f9b194d/68747470733a2f2f692e696d6775722e636f6d2f315a76566b44632e676966)](https://github.com/Morpheus054/Morpheus054)
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40" height="40" />, I'm Krish Motiani</h1> 
 <h3 align="center">Currently pursuing BTech CSE in BITS Pilani Dubai</h3>
-<img align="right" alt="Coding" width="470" height="350" src="https://user-images.githubusercontent.com/73650533/212734724-cc244ff1-5cba-49dd-84a1-f01122ce4c07.gif"><br>
+<img align="right" alt="Coding" width="400" height="297" src="https://user-images.githubusercontent.com/73650533/212734724-cc244ff1-5cba-49dd-84a1-f01122ce4c07.gif"><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=morpheus054&label=Profile%20views&color=0e75b6&style=flat" alt="morpheus054" /> </p>
 
