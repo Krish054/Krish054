@@ -23,6 +23,6 @@
 
 ![Krish's GitHub stats](https://github-readme-stats-zn4r-morpheus054.vercel.app/api?username=Morpheus054&show_icons=true&theme=react)
 
-[![Top Langs](https://github-readme-stats-zn4r-morpheus054.vercel.app/api/top-langs/?username=Morpheus054&theme=react&langs_count=10&exclude_repo=Meals_App)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-zn4r-morpheus054.vercel.app/api/top-langs/?username=Morpheus054&theme=react&langs_count=10&include_forks=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Morpheus054&theme=react&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
