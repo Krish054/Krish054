@@ -26,3 +26,5 @@
 [![Top Langs](https://github-readme-stats-zn4r-morpheus054.vercel.app/api/top-langs/?username=Morpheus054&theme=react&langs_count=10&include_forks=false)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Morpheus054&theme=react&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+[![](https://visitcount.itsvg.in/api?id=Morpheus054&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
